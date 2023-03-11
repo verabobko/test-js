@@ -1,5 +1,4 @@
 # Hello!
 ## Subtitle
-* one
 * two _italic_
-* 
+* Some item 
